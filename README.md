@@ -9,3 +9,7 @@ https://colab.research.google.com/drive/1xHnzvXdQT-gUQskV4wTOKviqD65K24_3?usp=sh
 ## LAB EXERCISE ON CNN
 
 https://colab.research.google.com/drive/1Prrj7O65OfRLgeF0keESDIFQfdhbGcYY?usp=sharing
+
+## AI-AGENT DEMO and REPO LINK
+
+https://github.com/hkshitesh/DS-AI-AGENT
