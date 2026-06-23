@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1Prrj7O65OfRLgeF0keESDIFQfdhbGcYY?usp=sh
 ## AI-AGENT DEMO and REPO LINK
 
 https://github.com/hkshitesh/DS-AI-AGENT
+
+## MCP SERVER DEMO and REPO LINK
+
+https://github.com/hkshitesh/MCP-SERVER-DS
